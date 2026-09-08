@@ -5,4 +5,5 @@ print(a-b)
 print(a*b)
 print(b/a)
 print("Learning git") 
-print("Square root calculatio added")
+print("Square root feature is ready")
+
